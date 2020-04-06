@@ -16,6 +16,7 @@
 		8297167C243B5A7E007F91F1 /* HouseInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8297167B243B5A7E007F91F1 /* HouseInfo.swift */; };
 		8297167E243B5B0A007F91F1 /* Houses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8297167D243B5B0A007F91F1 /* Houses.swift */; };
 		82971680243B66C9007F91F1 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8297167F243B66C9007F91F1 /* DetailViewController.swift */; };
+		82971682243B731E007F91F1 /* SplashScreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82971681243B731E007F91F1 /* SplashScreenViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		8297167B243B5A7E007F91F1 /* HouseInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HouseInfo.swift; sourceTree = "<group>"; };
 		8297167D243B5B0A007F91F1 /* Houses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Houses.swift; sourceTree = "<group>"; };
 		8297167F243B66C9007F91F1 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		82971681243B731E007F91F1 /* SplashScreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashScreenViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,10 +66,11 @@
 			children = (
 				82971667243B53E7007F91F1 /* AppDelegate.swift */,
 				82971669243B53E7007F91F1 /* SceneDelegate.swift */,
-				8297166B243B53E7007F91F1 /* ViewController.swift */,
 				8297167B243B5A7E007F91F1 /* HouseInfo.swift */,
 				8297167D243B5B0A007F91F1 /* Houses.swift */,
+				8297166B243B53E7007F91F1 /* ViewController.swift */,
 				8297167F243B66C9007F91F1 /* DetailViewController.swift */,
+				82971681243B731E007F91F1 /* SplashScreenViewController.swift */,
 				8297166D243B53E7007F91F1 /* Main.storyboard */,
 				82971670243B53E9007F91F1 /* Assets.xcassets */,
 				82971672243B53E9007F91F1 /* LaunchScreen.storyboard */,
@@ -149,6 +152,7 @@
 			files = (
 				8297166C243B53E7007F91F1 /* ViewController.swift in Sources */,
 				82971668243B53E7007F91F1 /* AppDelegate.swift in Sources */,
+				82971682243B731E007F91F1 /* SplashScreenViewController.swift in Sources */,
 				8297167E243B5B0A007F91F1 /* Houses.swift in Sources */,
 				82971680243B66C9007F91F1 /* DetailViewController.swift in Sources */,
 				8297167C243B5A7E007F91F1 /* HouseInfo.swift in Sources */,
