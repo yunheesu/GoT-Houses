@@ -13,6 +13,9 @@
 		8297166F243B53E7007F91F1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8297166D243B53E7007F91F1 /* Main.storyboard */; };
 		82971671243B53E9007F91F1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 82971670243B53E9007F91F1 /* Assets.xcassets */; };
 		82971674243B53E9007F91F1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 82971672243B53E9007F91F1 /* LaunchScreen.storyboard */; };
+		8297167C243B5A7E007F91F1 /* HouseInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8297167B243B5A7E007F91F1 /* HouseInfo.swift */; };
+		8297167E243B5B0A007F91F1 /* Houses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8297167D243B5B0A007F91F1 /* Houses.swift */; };
+		82971680243B66C9007F91F1 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8297167F243B66C9007F91F1 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		82971670243B53E9007F91F1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		82971673243B53E9007F91F1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		82971675243B53E9007F91F1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8297167B243B5A7E007F91F1 /* HouseInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HouseInfo.swift; sourceTree = "<group>"; };
+		8297167D243B5B0A007F91F1 /* Houses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Houses.swift; sourceTree = "<group>"; };
+		8297167F243B66C9007F91F1 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +65,9 @@
 				82971667243B53E7007F91F1 /* AppDelegate.swift */,
 				82971669243B53E7007F91F1 /* SceneDelegate.swift */,
 				8297166B243B53E7007F91F1 /* ViewController.swift */,
+				8297167B243B5A7E007F91F1 /* HouseInfo.swift */,
+				8297167D243B5B0A007F91F1 /* Houses.swift */,
+				8297167F243B66C9007F91F1 /* DetailViewController.swift */,
 				8297166D243B53E7007F91F1 /* Main.storyboard */,
 				82971670243B53E9007F91F1 /* Assets.xcassets */,
 				82971672243B53E9007F91F1 /* LaunchScreen.storyboard */,
@@ -140,6 +149,9 @@
 			files = (
 				8297166C243B53E7007F91F1 /* ViewController.swift in Sources */,
 				82971668243B53E7007F91F1 /* AppDelegate.swift in Sources */,
+				8297167E243B5B0A007F91F1 /* Houses.swift in Sources */,
+				82971680243B66C9007F91F1 /* DetailViewController.swift in Sources */,
+				8297167C243B5A7E007F91F1 /* HouseInfo.swift in Sources */,
 				8297166A243B53E7007F91F1 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
