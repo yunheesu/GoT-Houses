@@ -172,7 +172,7 @@
                         <viewLayoutGuide key="safeArea" id="9Ef-rB-e17"/>
                     </view>
                     <connections>
-                        <outlet property="imageView" destination="9WX-Om-UDK" id="PK8-mo-Ak1"/>
+                        <outlet property="throneImageView" destination="9WX-Om-UDK" id="PK8-mo-Ak1"/>
                         <segue destination="wVv-Ix-HLn" kind="show" identifier="ShowTableView" id="hdH-Od-Pnh"/>
                     </connections>
                 </viewController>
